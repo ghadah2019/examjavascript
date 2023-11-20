@@ -21,9 +21,7 @@ fetch("http://api.aladhan.com/v1/calendar/2017/4?latitude=51.508515&longitude=-0
         let hijri = info.data.map(a => a.timings);
         console.log(hijri);
 
-        document.getElementById("get-data")
-        let container = document.createElement("div");
-        container.classList.add('list');
+      
 
 
      
