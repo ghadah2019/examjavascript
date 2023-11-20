@@ -1,0 +1,130 @@
+body{
+    background-color: rgb(206, 228, 227);
+}
+
+.div-col{
+
+  margin-top: 4rem;
+  align-items: start;
+
+    display: flex;
+    flex-direction: column;
+
+
+
+    justify-content: space-around;
+
+  
+    margin-bottom: 7rem;
+    width: 50%;
+
+    margin-left: 3rem;
+    position: relative;
+  
+}
+
+
+.label1 {
+    margin-top: 4rem;
+    height: 3rem;
+
+    width: 8rem;
+    background-color: rgb(21, 75, 104);
+  text-align: center;
+  border-radius: 10px;
+
+}
+
+.label2 {
+    margin-top: 2rem;
+
+    height: 3rem;
+
+    width: 8rem;
+    background-color: rgb(21, 75, 104);
+  text-align: center;
+  border-radius: 10px;
+}
+
+.label3 {
+    margin-top: 2rem;
+
+    height: 3rem;
+
+    width: 8rem;
+    background-color: rgb(21, 75, 104);
+  text-align: center;
+  border-radius: 10px;
+}
+
+.image1 {
+
+    width: 100%;
+    position: absolute;
+  
+    
+}
+
+.style-email {
+    margin-top: 2rem;
+    border-radius: 15px;
+    width: 16rem;
+    height: 3rem;
+    background-color: rgba(216, 210, 203, 0.54);
+    border: none;
+}
+
+.style-password {
+    margin-top: 2rem;
+    border-radius: 15px;
+    width: 16rem;
+    height: 3rem;
+    background-color: rgba(216, 210, 203, 0.54);
+    border: none;
+}
+
+.style-name {
+
+    margin-top: 2rem;
+    border-radius: 15px;
+    width: 16rem;
+    height: 3rem;
+    background-color: rgba(216, 210, 203, 0.54);
+    border: none;
+}
+
+
+.btn1{
+
+    background-color: rgba(35, 30, 30, 0.679);
+    border: none;
+    height: 2rem;
+    width: 5rem;
+    border-radius: 10px;
+    margin-left: 2rem;
+    
+}
+
+.row-div {
+    display: flex;
+    flex-direction: row;
+  
+    height: 60rem;
+    position: relative;
+}
+
+
+.div-coll{
+
+    margin-top: 4rem;
+   
+    width: 50%;
+
+}
+
+.image2  {
+
+    width: 36rem;
+    height: 40rem;
+}
+
